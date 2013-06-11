@@ -1,0 +1,30 @@
+.timeline{    
+    position:relative;    
+    background: #BDC3C7;
+}
+
+.timeline-on{   
+    float:left;   
+    text-align:center;
+    color:#FFF;
+    font-size:12px;
+    font-family:sans-serif;
+    font-weight:bold;
+    line-height:24px;
+}
+
+.timeline-on-success{
+    background:#2ECC71;    
+}
+
+.timeline-on-alert{
+    background:#f1c40f;
+}
+
+.timeline-on-warning{
+    background:#e74c3c;    
+}
+
+
+
+
